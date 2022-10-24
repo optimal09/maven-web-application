@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.177.1.11:8081/repository/Tesla-app-releases/</url>
+	      <url>http://54.91.0.188:5070/repository/ebay-docker-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.177.1.11:8081/repository/Tesla-app-snapshots/</url>
+	      <url>http://54.91.0.188:5070/repository/ebay-docker/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
